@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Yuhao Chen
 logo: /assets/images/photo.jpg
-#description: Yuhao Chen's Personal Website
+description: [Google Scholar](https://scholar.google.ca/citations?user=NwxXuCYAAAAJ&hl=en) [Linkedin](https://www.linkedin.com/in/yuhao-chen-789a2164/)
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
