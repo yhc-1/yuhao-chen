@@ -1,3 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
+title: Yuhao Chen
+logo: /assets/images/photo.jpg
+description: Yuhao Chen's Personal Website
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
