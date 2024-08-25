@@ -4,7 +4,6 @@ title: Home
 ---
 
 # About Me
-![Profile Photo](assets/images/photo.jpg)
 
 I am a researcher in the field of Computer Vision, Artificial Intelligence, and Machine Learning, with a focus on robust and precise visual content understanding. 
 
