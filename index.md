@@ -5,8 +5,9 @@ title: Home
 
 # About Me
 
-I am a Research Assistant Professor at the Vision and Image Processing Lab (VIP) at the University of Waterloo, specializing in Computer Vision. My primary research focuses on developing advanced CV algorithms for analyzing food, including their shapes and nutritional content. *My ultimate vision is to empower individuals to create their own games and movies through accessible, powerful CV algorithms.* This vision is deeply connected to my current work, where I am honing the skills necessary to digitize and bring various aspects of the world into the digital realm.
+I am a Research Assistant Professor at the [Vision and Image Processing Lab (VIP)](https://vip.uwaterloo.ca/) at the University of Waterloo, specializing in Computer Vision. I joined the VIP lab as a postdoctoral fellow from 2020 to 2023, was promoted to Research Associate in 2023, and became a Research Assistant Professor in 2024. I earned my B.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from Purdue University in 2015 and 2019, respectively, where I was a member of the [Video and Image Processing (VIPER) laboratory](https://engineering.purdue.edu/~ips/), under the supervision of [Professor Edward J. Delp](https://engineering.purdue.edu/~ace/). 
 
+My primary research focuses on developing advanced CV algorithms for analyzing food, including their shapes and nutritional content. **My ultimate vision is to empower individuals to create their own games and movies through accessible, powerful CV algorithms.** This vision is deeply connected to my current work, where I am honing the skills necessary to digitize and bring various aspects of the world into the digital realm. If our visions align, I welcome you to reach out for discussions and collaborations.
 
 
 ## Media Coverage
