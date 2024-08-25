@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.dataset-size {
+    width: 300px;  /* Set the desired width */
+}

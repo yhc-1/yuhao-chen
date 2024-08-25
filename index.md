@@ -25,8 +25,11 @@ I am a Research Assistant Professor at the Vision and Image Processing Lab (VIP)
 
 ## Datasets
 - [MetaGraspNet](https://github.com/maximiliangilles/MetaGraspNet?tab=readme-ov-file)
+![](assets/images/metagraspnet.png){: .dataset-size }
 - [MetaFood3D Dataset](https://lorenz.ecn.purdue.edu/~food3d/)
+![](assets/images/metafood3d.png){: .dataset-size }
 - [NutritionVerse 3D](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
+![](assets/images/nutritionverse.png){: .dataset-size }
 
 ## Publications (2024)
 [Google Scholar](https://scholar.google.ca/citations?user=NwxXuCYAAAAJ&hl=en)
