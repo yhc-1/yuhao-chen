@@ -4,7 +4,7 @@ title: Home
 ---
 
 # About Me
-[Google Scholar](https://scholar.google.ca/citations?user=NwxXuCYAAAAJ&hl=en) [Linkedin](https://www.linkedin.com/in/yuhao-chen-789a2164/)
+[Google Scholar](https://scholar.google.ca/citations?user=NwxXuCYAAAAJ&hl=en) | [Linkedin](https://www.linkedin.com/in/yuhao-chen-789a2164/)
 
 I am a Research Assistant Professor at the [Vision and Image Processing Lab (VIP)](https://vip.uwaterloo.ca/) at the University of Waterloo, specializing in Computer Vision. I joined the VIP lab as a postdoctoral fellow from 2020 to 2023, was promoted to Research Associate in 2023, and became a Research Assistant Professor in 2024. I earned my B.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from Purdue University in 2015 and 2019, respectively, where I was a member of the [Video and Image Processing (VIPER) laboratory](https://engineering.purdue.edu/~ips/), under the supervision of [Professor Edward J. Delp](https://engineering.purdue.edu/~ace/). 
 
