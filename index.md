@@ -30,8 +30,7 @@ I am a Research Assistant Professor at the Vision and Image Processing Lab (VIP)
 - [MetaFood3D Dataset](https://lorenz.ecn.purdue.edu/~food3d/)
 [![](assets/images/metafood3d.png){: .dataset-size }](https://lorenz.ecn.purdue.edu/~food3d/)
 
-- [NutritionVerse 3D](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
-
+- [NutritionVerse 3D](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)  
 [![](assets/images/nutritionverse.png){: height="150px"}](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
 
 ## Publications (2024)
