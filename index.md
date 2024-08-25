@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-I am a Research Assistant Professor at the Vision and Image Processing Lab (VIP) at the University of Waterloo, specializing in Computer Vision. My primary research focuses on developing advanced CV algorithms for analyzing food, including their shapes and nutritional content. **My ultimate vision is to empower individuals to create their own games and movies through accessible, powerful CV algorithms.** This vision is deeply connected to my current work, where I am honing the skills necessary to digitize and bring various aspects of the world into the digital realm.
+I am a Research Assistant Professor at the Vision and Image Processing Lab (VIP) at the University of Waterloo, specializing in Computer Vision. My primary research focuses on developing advanced CV algorithms for analyzing food, including their shapes and nutritional content. *My ultimate vision is to empower individuals to create their own games and movies through accessible, powerful CV algorithms.* This vision is deeply connected to my current work, where I am honing the skills necessary to digitize and bring various aspects of the world into the digital realm.
 
 
 
@@ -25,11 +25,11 @@ I am a Research Assistant Professor at the Vision and Image Processing Lab (VIP)
 
 ## Datasets
 - [MetaGraspNet](https://github.com/maximiliangilles/MetaGraspNet?tab=readme-ov-file)
-![](assets/images/metagraspnet.png){: .dataset-size }
+[![](assets/images/metagraspnet.png){: .dataset-size }](https://github.com/maximiliangilles/MetaGraspNet?tab=readme-ov-file)
 - [MetaFood3D Dataset](https://lorenz.ecn.purdue.edu/~food3d/)
-![](assets/images/metafood3d.png){: .dataset-size }
+[![](assets/images/metafood3d.png){: .dataset-size }](https://lorenz.ecn.purdue.edu/~food3d/)
 - [NutritionVerse 3D](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
-![](assets/images/nutritionverse.png){: .dataset-size }
+[![](assets/images/nutritionverse.png){: height="150px"}](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
 
 ## Publications (2024)
 [Google Scholar](https://scholar.google.ca/citations?user=NwxXuCYAAAAJ&hl=en)
