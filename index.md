@@ -10,8 +10,8 @@ I am a Research Assistant Professor at the [Vision and Image Processing Lab (VIP
 
 My primary research focuses on developing advanced CV algorithms for analyzing food, including their shapes and nutritional content. **My ultimate vision is to empower individuals to create their own games and movies through accessible, powerful CV algorithms.** This vision is deeply connected to my current work, where I am honing the skills necessary to digitize and bring various aspects of the world into the digital realm. If our visions align, I welcome you to reach out for discussions and collaborations.
 
-## Prospective Students/postdocs
-I'm looking for MASc/PhD students and Postdocs for Computer Vision in Construction. Candidates with backgrounds in SLAM, Nerf, and Gaussian Splatting are encouraged to apply.
+## Prospective Students/Postdocs
+I'm looking for MASc/PhD students and Postdocs for Computer Vision in Construction. Candidates with background in SLAM, Nerf, Gaussian Splatting, Robotics are encouraged to apply.
 
 Our lab is also looking for students in Remote Sensing supervised by [Professor David Clausi](https://uwaterloo.ca/systems-design-engineering/profile/dclausi)
 
