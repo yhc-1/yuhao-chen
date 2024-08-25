@@ -13,7 +13,7 @@ My primary research focuses on developing advanced CV algorithms for analyzing f
 ## Prospective Students/Postdocs
 I'm looking for MASc/PhD students and Postdocs for Computer Vision in Construction. Candidates with background in SLAM, Nerf, Gaussian Splatting, Robotics are encouraged to apply.
 
-Our lab is also looking for students in Remote Sensing supervised by [Professor David Clausi](https://uwaterloo.ca/systems-design-engineering/profile/dclausi)
+Our lab is also looking for students in Remote Sensing supervising by [Professor David Clausi](https://uwaterloo.ca/systems-design-engineering/profile/dclausi)
 
 ## Media Coverage
 - ["AI wants to count your calories", The Wall Street Journal](https://www.wsj.com/tech/ai/ai-count-calories-weight-loss-6acc7019?st=a5sk6r6qoaqex7t&reflink=desktopwebshare_permalink), Aug-2024
