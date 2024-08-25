@@ -29,6 +29,8 @@ I am a Research Assistant Professor at the Vision and Image Processing Lab (VIP)
 - [NutritionVerse 3D](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
 
 ## Publications (2024)
+[Google Scholar](https://scholar.google.ca/citations?user=NwxXuCYAAAAJ&hl=en)
+ 
 1. D. Mao, Y. Chen, Y. Wu, M. Gilles, and A. Wong, “Rethinking resource competition in multi-task
 learning: From shared parameters to shared representation,” IEEE Access, pp. 1–1, 2024. doi:
 10.1109/ACCESS.2024.3429281.
