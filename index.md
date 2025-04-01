@@ -22,6 +22,7 @@ Our lab is also looking for students in Remote Sensing, supervised by [Professor
 
 
 ## Professional Services
+- **Chair** [CVPR 2025 MetaFood Workshop](https://sites.google.com/view/cvpr-metafood-2025)
 - **Chair** [CVPR 2024 MetaFood Workshop](https://sites.google.com/view/cvpr-metafood-2024)
 - **Co-Chair** [IAAI-24](https://aaai.org/aaai-conference/iaai-24-program/)
 - **Co-Chair** [IAAI-23](https://aaai-23.aaai.org/iaai-23-call/)
