@@ -2,35 +2,41 @@
 
 .student-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 1.5rem;
   margin: 2rem 0;
+  justify-items: center;
 }
 
 .student-profile {
   text-align: center;
+  width: 100px;
   
   a {
     text-decoration: none;
     color: inherit;
+    display: block;
   }
 }
 
 .student-image {
-  width: 120px;
-  height: 120px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 0.5rem;
-  transition: transform 0.2s;
+  transition: all 0.2s ease;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 4px #e0e0e0;
   
   &:hover {
     transform: scale(1.05);
+    box-shadow: 0 0 0 3px #ffffff, 0 0 0 4px #0366d6;
   }
 }
 
 .student-name {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   margin: 0;
   font-weight: 500;
+  line-height: 1.2;
 } 
