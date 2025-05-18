@@ -40,6 +40,78 @@ Our lab is also looking for students in Remote Sensing, supervised by [Professor
 - [NutritionVerse 3D](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)  
 [![](assets/images/nutritionverse.png){: height="150px"}](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
 
+## PhD Students
+<div class="student-grid">
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/ezxzeng/" target="_blank">
+      <img src="assets/images/students/emily-zeng.jpg" alt="Emily Zeng" class="student-image">
+      <p class="student-name">Emily Zeng</p>
+    </a>
+  </div>
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/saeejith/" target="_blank">
+      <img src="assets/images/students/saeejith-nair.jpg" alt="Saeejith Nair" class="student-image">
+      <p class="student-name">Saeejith Nair</p>
+    </a>
+  </div>
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/fernando-pencantu/" target="_blank">
+      <img src="assets/images/students/fernando-pencantu.jpg" alt="Fernando Pena Cantu" class="student-image">
+      <p class="student-name">Fernando Pena Cantu</p>
+    </a>
+  </div>
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/harish-prakash-21109415a/" target="_blank">
+      <img src="assets/images/students/harish-prakash.jpg" alt="Harish Prakash" class="student-image">
+      <p class="student-name">Harish Prakash</p>
+    </a>
+  </div>
+</div>
+
+## MASc students
+<div class="student-grid">
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/kseniiabuzko/" target="_blank">
+      <img src="assets/images/students/kseniia-buzko.jpg" alt="Kseniia Buzko" class="student-image">
+      <p class="student-name">Kseniia Buzko</p>
+    </a>
+  </div>
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/howird/" target="_blank">
+      <img src="assets/images/students/howard-lin.jpg" alt="Howard Nguyen-Huu" class="student-image">
+      <p class="student-name">Howard Nguyen-Huu</p>
+    </a>
+  </div>
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/soyeon-j/" target="_blank">
+      <img src="assets/images/students/soyeon-j.jpg" alt="Soyeon Jang" class="student-image">
+      <p class="student-name">Soyeon Jang</p>
+    </a>
+  </div>
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/dmytro-klepachevskyi-5a05561b7/" target="_blank">
+      <img src="assets/images/students/dmytro-klepachevskyi.jpg" alt="Dmytro Klepachevskyi" class="student-image">
+      <p class="student-name">Dmytro Klepachevskyi</p>
+    </a>
+  </div>
+</div>
+
+## Research Assistant
+<div class="student-grid">
+  <div class="student-profile">
+    <a href="https://www.linkedin.com/in/daniel-mao-a1895420a/" target="_blank">
+      <p class="student-name">Daniel Mao</p>
+    </a>
+  </div>
+</div>
+
+## Current undergraduate students
+
+
+## Past undergraduate students
+
+
+
 ## Publications (2024)
  
 1. D. Mao, Y. Chen, Y. Wu, M. Gilles, and A. Wong, “Rethinking resource competition in multi-task
