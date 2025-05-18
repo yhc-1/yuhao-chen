@@ -20,13 +20,15 @@
 }
 
 .student-image {
+  display: block;
   width: 80px;
   height: 80px;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 0.5rem;
+  margin: 0 auto 0.5rem auto;
   transition: all 0.2s ease;
   box-shadow: 0 0 0 3px #ffffff, 0 0 0 4px #e0e0e0;
+  overflow: hidden;
   
   &:hover {
     transform: scale(1.05);
@@ -39,4 +41,5 @@
   margin: 0;
   font-weight: 500;
   line-height: 1.2;
+  word-wrap: break-word;
 } 
