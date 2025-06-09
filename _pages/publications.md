@@ -23,6 +23,22 @@ A large-scale dataset for 3D food analysis and understanding.
 A comprehensive dataset for nutritional analysis of food items in 3D.  
 [View on Kaggle](https://www.kaggle.com/datasets/amytai/nutritionverse-3d)
 
+## 2025
+
+1. F. Wu and Y. Chen, "FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+2. S. Viswanath, K. Shah, P. Xi, A. Wong, and Y. Chen, "FoodVideoQA: A Novel Baseline Framework for Dietary Monitoring," in MetaFood Workshop at CVPR 2025.
+3. J. Li, F. J. Pena Cantu, E. Yu, A. Wong, Y. Cui, and Y. Chen, "SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos," in MetaFood Workshop at CVPR 2025.
+4. J. Valdes, S. Liu, S. Yang, Y. Chen, A. Wong, and P. Xi, "Food Degradation Analysis Using Multimodal Fuzzy Clustering," in MetaFood Workshop at CVPR 2025.
+5. E. Wang and Y. Chen, "FoodTrack: Estimating Handheld Food Portions with Egocentric Video," in MetaFood Workshop at CVPR 2025.
+6. Y. H. Lee and Y. Chen, "Dietary Intake Estimation via Continuous 3D Reconstruction of Food," in MetaFood Workshop at CVPR 2025.
+7. K. Tan, F. Yang, and Y. Chen, "6D Pose Estimation on Spoons and Hands," in MetaFood Workshop at CVPR 2025.
+8. D. Khanna, J. Bright, Y. Chen, and J. Zelek, "SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports," in CVSports Workshop at CVPR 2025.
+9. L. Salass, J. Bright, A. Nazemi, Y. Chen, J. Zelek, and D. Clausi, "Ice Hockey Puck Localization Using Contextual Cues," in CVSports Workshop at CVPR 2025.
+10. J. Bright, Z. Wang, Y. Chen, S. Rambhatla, D. A. Clausi, and J. S. Zelek, "Gen4D: Synthesizing Humans and Scenes in the Wild," in Computer Vision in the Wild Workshop at CVPR 2025.
+11. K. Buzko, D. Clausi, and Y. Chen, "Generative Video Editing: From Unconfident to Confident," in Women in Computer Vision Workshop at CVPR 2025.
+12. K. Buzko, D. Clausi, and Y. Chen, "HAIKYU: Hockey Action Identification and Keypose Understanding," in Women in Computer Vision Workshop at CVPR 2025.
+13. M. Q. Ali, S. Nair, A. Wong, Y. Cui, and Y. Chen, "GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering," in 3D-LLM/VLA Workshop at CVPR 2025.
+
 ## 2024
  
 1. D. Mao, Y. Chen, Y. Wu, M. Gilles, and A. Wong, "Rethinking resource competition in multi-task learning: From shared parameters to shared representation," IEEE Access, pp. 1–1, 2024. doi: 10.1109/ACCESS.2024.3429281.

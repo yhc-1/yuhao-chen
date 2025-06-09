@@ -33,3 +33,38 @@ Our lab is also looking for students in Remote Sensing, supervised by [Professor
 - **Co-Chair** [CVIS-22](https://uwcvis.github.io/cvis2022/)
 - **Co-Chair** [CVIS-21](https://cvis2021.weebly.com/)
 
+## News
+
+I am excited to announce that I will be attending CVPR 2025! Here are the papers I will be presenting:
+
+### Main Conference
+
+- Wu, F., & Chen, Y. (2025). FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+### MetaFood Workshop
+
+- Viswanath, S., Shah, K., Xi, P., Wong, A., & Chen, Y. (2025). FoodVideoQA: A Novel Baseline Framework for Dietary Monitoring. In MetaFood Workshop at CVPR 2025.
+- Li, J., Pena Cantu, F. J., Yu, E., Wong, A., Cui, Y., & Chen, Y. (2025). SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos. In MetaFood Workshop at CVPR 2025.
+- Valdes, J., Liu, S., Yang, S., Chen, Y., Wong, A., & Xi, P. (2025). Food Degradation Analysis Using Multimodal Fuzzy Clustering. In MetaFood Workshop at CVPR 2025.
+- Wang, E., & Chen, Y. (2025). FoodTrack: Estimating Handheld Food Portions with Egocentric Video. In MetaFood Workshop at CVPR 2025.
+- Lee, Y. H., & Chen, Y. (2025). Dietary Intake Estimation via Continuous 3D Reconstruction of Food. In MetaFood Workshop at CVPR 2025.
+- Tan, K., Yang, F., & Chen, Y. (2025). 6D Pose Estimation on Spoons and Hands. In MetaFood Workshop at CVPR 2025.
+
+### CVSports Workshop
+
+- Khanna, D., Bright, J., Chen, Y., & Zelek, J. (2025). SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports. In CVSports Workshop at CVPR 2025.
+- Salass, L., Bright, J., Nazemi, A., Chen, Y., Zelek, J., & Clausi, D. (2025). Ice Hockey Puck Localization Using Contextual Cues. In CVSports Workshop at CVPR 2025.
+
+### Computer Vision in the Wild Workshop
+
+- Bright, J., Wang, Z., Chen, Y., Rambhatla, S., Clausi, D. A., & Zelek, J. S. (2025). Gen4D: Synthesizing Humans and Scenes in the Wild. In Computer Vision in the Wild Workshop at CVPR 2025.
+
+### Women in Computer Vision Workshop
+
+- Buzko, K., Clausi, D., & Chen, Y. (2025). Generative Video Editing: From Unconfident to Confident. In Women in Computer Vision Workshop at CVPR 2025.
+- Buzko, K., Clausi, D., & Chen, Y. (2025). HAIKYU: Hockey Action Identification and Keypose Understanding. In Women in Computer Vision Workshop at CVPR 2025.
+
+### 3D-LLM/VLA Workshop
+
+- Ali, M. Q., Nair, S., Wong, A., Cui, Y., & Chen, Y. (2025). GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering. In 3D-LLM/VLA Workshop at CVPR 2025.
+
