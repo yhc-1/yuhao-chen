@@ -40,7 +40,7 @@ A comprehensive dataset for nutritional analysis of food items in 3D.
 7. J. Bright, Z. Wang, Y. Chen, S. Rambhatla, D. A. Clausi, and J. S. Zelek, "Gen4D: Synthesizing Humans and Scenes in the Wild," in Computer Vision in the Wild Workshop at CVPR 2025.
 
 
-## Abstracts (2024)
+## Abstracts (2025)
 1. E. Wang and Y. Chen, "FoodTrack: Estimating Handheld Food Portions with Egocentric Video," in MetaFood Workshop at CVPR 2025.
 
 2. Y. H. Lee and Y. Chen, "Dietary Intake Estimation via Continuous 3D Reconstruction of Food," in MetaFood Workshop at CVPR 2025.
