@@ -52,7 +52,7 @@ I supervise students' research in a structured manner, with clear goals for both
 
 ## Undergraduate Students
 <div class="student-section undergrad-section">
-  {% assign all_terms = "Spring 2025,Winter 2025,Fall 2024,Spring 2024,Winter 2024,Fall 2023,Spring 2023,Winter 2023,Fall 2022" | split: "," %}
+  {% assign all_terms = "Fall 2025,Spring 2025,Winter 2025,Fall 2024,Spring 2024,Winter 2024,Fall 2023,Spring 2023,Winter 2023,Fall 2022" | split: "," %}
   {% for term in all_terms %}
     {% assign students_in_term = site.data.undergrads | where_exp: "student", "student.terms contains term" %}
     {% if students_in_term.size > 0 %}
