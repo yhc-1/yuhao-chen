@@ -1,12 +1,172 @@
+# 2025 Fall
 
+- name: Joel Fu
+  type: URA
+  research: Material Segmentation for Fruits
+  terms: Fall 2025
+
+- name: Justin Abuyuan
+  type: URA
+  research: Soft Food 3D Scan and Reconstruction
+  terms: Fall 2025
+
+- name: Matias Rivas
+  type: URA
+  research: 3DGS-based World Generation
+  terms: Fall 2025
+
+- name: Max Li
+  type: URA
+  research: Depth Enhanced 3D Construction Site Reconstruction
+  terms: Fall 2025
+
+- name: Mostafa Hussein
+  type: URA
+  research: MAST3R SLAM for Robots
+  terms: Fall 2025
+
+- name: Owen Pan
+  type: URA
+  research: RL Reward Design for 2V2 Soccer Simulation
+  terms: Fall 2025
+
+- name: Sanjay Seenivasan
+  type: URA
+  research: Dynamic 3D Reconstruction on Epic Kitchen Dataset
+  terms: Fall 2025
+
+- name: Wallace Lee
+  type: URA
+  research: 4D World Generation
+  terms: Fall 2025
+
+- name: William Zeng
+  type: URA
+  research: VGGT-based 3D Reconstruction For Mapping
+  terms: Fall 2025
+
+- name: Yichen Liu
+  type: URA
+  research: Continuous 3D Reconstruction of Construction Site
+  terms: Fall 2025
+
+- name: Mohammadamin (Amin) Sedaghat
+  type: URA
+  research: Tennis Simulation
+  terms: Fall 2025
+
+- name: Aya Ahmed
+  type: URA
+  research: Eye Gaze Robot Control
+  terms: Fall 2025
+
+- name: Bowen Dai
+  type: URA
+  research: Hockey Rink Reconstruction and Homography Estimation
+  terms: Fall 2025
+
+- name: David Wu
+  type: URA
+  research: Material Point Method and Video Matting
+  terms: Fall 2025
+
+- name: Pan Liu
+  type: URA
+  research: Reproducing Rekep Robot Control
+  terms: Fall 2025
+
+- name: Raymond Li
+  type: URA
+  research: Human Mesh Recovery Finetuning
+  terms: Fall 2025
+
+- name: Tisiane Wembou
+  type: URA
+  research: Point Cloud Fixing and Completion
+  terms: Fall 2025
+
+- name: Xing Lyu
+  type: URA
+  research: 3DGS-based World Generation
+  terms: Fall 2025
+
+- name: Robin Xiang
+  type: Final Year Design Project
+  research: Woodcarving Dexterity
+  terms: Fall 2025
+
+- name: Thomas Fieguth
+  type: Final Year Design Project
+  research: Woodcarving Dexterity
+  terms: Fall 2025
+
+- name: Prakruti
+  type: Final Year Design Project
+  research: Woodcarving Dexterity
+  terms: Fall 2025
+
+- name: Yousef Al Sahawneh
+  type: Final Year Design Project
+  research: Woodcarving Dexterity
+  terms: Fall 2025
+  
 - name: Anna Tamlin
   type: URA
-  research: Food Computing
-  terms: Spring 2025
+  research: Continuous Nutrition Intake Estimation from Videos
+  terms: Spring 2025, Fall 2025
 
 - name: Leonard Zhou
   type: URA
-  research: 3D Reconstruction for Construction Site
+  research: 3D Reconstruction Levels of Details for Construction Site
+  terms: Spring 2025, Fall 2025
+
+- name: Nina Zhang
+  type: URA
+  research: Social Group Detection from Videos
+  terms: Spring 2025, Fall 2025
+
+- name: Jenneva Li
+  type: URA
+  research: LeRobot, Eye Gaze Robot Control
+  terms: Spring 2025, Fall 2025
+
+
+# 2025 Spring
+
+# FYDP Team
+- name: Darwin Clark
+  type: Final Year Design Project
+  research: Handheld Reconnaissance Pod Device
+  terms: Spring 2025
+
+- name: Mark Min
+  type: Final Year Design Project
+  research: Handheld Reconnaissance Pod Device
+  terms: Spring 2025
+
+- name: Mihir Gupta
+  type: Final Year Design Project
+  research: Handheld Reconnaissance Pod Device
+  terms: Spring 2025
+
+- name: James Song
+  type: Final Year Design Project
+  research: Handheld Reconnaissance Pod Device
+  terms: Spring 2025
+
+- name: Florence Yuen
+  type: Final Year Design Project
+  research: Handheld Reconnaissance Pod Device
+  terms: Spring 2025
+
+- name: Ishman Mann
+  type: Final Year Design Project
+  research: Handheld Reconnaissance Pod Device
+  terms: Spring 2025
+ 
+- name: Colin MacMillan
+  type: Co-op
+  research: Depth-based 3D Reconstruction for Construction Site
   terms: Spring 2025
 
 - name: Divya Makkar
