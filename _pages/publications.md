@@ -9,7 +9,7 @@ nav_order: 1
 
 Selected publications, organized around the four application areas of my research on interactive digital twins. For the complete list of 93 papers, please see my [Google Scholar profile](https://scholar.google.com/citations?user=qc6CJjYAAAAJ).
 
-In the author lists below, **my name is in bold** and the names of <u>students I supervise or have supervised</u> — graduate and undergraduate — are underlined.
+In the author lists below, **my name is in bold** and the names of <u>students and interns I supervise or have supervised</u> — graduate, undergraduate and visiting — are underlined.
 
 ## Datasets
 
@@ -44,7 +44,7 @@ Video-based dietary monitoring, 3D food geometry and portion measurement, and ge
 
 5. X. Pan, **Y. Chen**, and F. Zhu, "Training-Free Text-to-Image Compositional Food Generation via Prompt Grafting," in *IEEE Conference on Artificial Intelligence (CAI)*, 2026, pp. 1282–1289.
 
-6. F. Wu and **Y. Chen**, "FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting," in *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025, pp. 11051–11060.
+6. <u>F. Wu</u> and **Y. Chen**, "FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting," in *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025, pp. 11051–11060.
 
 7. C.-e. A. Tai, <u>M. Keller</u>, <u>S. Nair</u>, **Y. Chen**, <u>Y. Wu</u>, <u>O. Markham</u>, K. Parmar, P. Xi, and A. Wong, "NutritionVerse3D2D: Large 3D Object and 2D Image Food Dataset for Dietary Intake Estimation," *Data*, vol. 10, no. 11, p. 180, 2025.
 
