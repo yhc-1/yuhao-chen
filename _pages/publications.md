@@ -96,19 +96,19 @@ Reconstructing players and gameplay from broadcast video: 3D human mesh recovery
 
 11. B. Balaji, J. Bright, **Y. Chen**, S. Rambhatla, J. S. Zelek, and D. A. Clausi, "Seeing Beyond the Crop: Using Language Priors for Out-of-Bounding Box Keypoint Prediction," in *Advances in Neural Information Processing Systems (NeurIPS)*, 2024, pp. 102897–102918.
 
-12. J. Bright, B. Balaji, H. Prakash, **Y. Chen**, D. A. Clausi, and J. S. Zelek, "Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery," in *Conference on Robots and Vision (CRV)*, 2024. **Best Paper Award**
+12. J. Bright, B. Balaji, <u>H. Prakash</u>, **Y. Chen**, D. A. Clausi, and J. S. Zelek, "Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery," in *Conference on Robots and Vision (CRV)*, 2024. **Best Paper Award**
 
 13. J. Bright, B. Balaji, **Y. Chen**, D. A. Clausi, and J. S. Zelek, "PitcherNet: Powering the Moneyball Evolution in Baseball Video Analytics," in *CVPR Workshops*, 2024, pp. 3420–3429.
 
 14. B. Balaji, J. Bright, S. Rambhatla, **Y. Chen**, A. Wong, J. S. Zelek, and D. A. Clausi, "Domain-Guided Masked Autoencoders for Unique Player Identification," in *Conference on Robots and Vision (CRV)*, 2024.
 
-15. H. Prakash, J. C. Shang, K. M. Nsiempba, **Y. Chen**, D. A. Clausi, and J. S. Zelek, "Multi Player Tracking in Ice Hockey with Homographic Projections," in *Conference on Robots and Vision (CRV)*, 2024.
+15. <u>H. Prakash</u>, J. C. Shang, K. M. Nsiempba, **Y. Chen**, D. A. Clausi, and J. S. Zelek, "Multi Player Tracking in Ice Hockey with Homographic Projections," in *Conference on Robots and Vision (CRV)*, 2024.
 
 16. V. Chomko, **Y. Chen**, D. Clausi, and A. Wong, "Synthetic Local Data Augmentation," in *IEEE 26th International Workshop on Multimedia Signal Processing (MMSP)*, 2024.
 
 17. J. C. Shang, **Y. Chen**, M. J. Shafiee, and D. A. Clausi, "Rink-Agnostic Hockey Rink Registration," in *6th ACM International Workshop on Multimedia Content Analysis in Sports*, 2023, pp. 73–81.
 
-18. B. Balaji, J. Bright, H. Prakash, **Y. Chen**, D. A. Clausi, and J. Zelek, "Jersey Number Recognition Using Keyframe Identification from Low-Resolution Broadcast Videos," in *6th ACM International Workshop on Multimedia Content Analysis in Sports*, 2023, pp. 123–130.
+18. B. Balaji, J. Bright, <u>H. Prakash</u>, **Y. Chen**, D. A. Clausi, and J. Zelek, "Jersey Number Recognition Using Keyframe Identification from Low-Resolution Broadcast Videos," in *6th ACM International Workshop on Multimedia Content Analysis in Sports*, 2023, pp. 123–130.
 
 19. J. Bright, **Y. Chen**, and J. Zelek, "Mitigating Motion Blur for Robust 3D Baseball Player Pose Modeling for Pitch Analysis," in *6th ACM International Workshop on Multimedia Content Analysis in Sports*, 2023, pp. 63–71.
 
