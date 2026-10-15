@@ -9,12 +9,14 @@ nav_order: 2
 
 I supervise students' research in a structured manner, with clear goals for both **short-term exploration** and **long-term deep dive**. My aim is to keep everyone engaged with the latest advancements in the field, while helping my graduate students stay focused on their core research problems. To support this, _I involve many undergraduate students in exploratory projects_ focused on emerging algorithms. This creates a collaborative environment where knowledge is shared across the lab and students learn from one another.
 
-I currently co-supervise **5 PhD** and **9 MASc** students, and have worked with **130 undergraduate** students since 2022.
-
-## Graduate Students
-
 {% assign phd = site.data.grad_students | where: "program", "PhD" %}
 {% assign masc = site.data.grad_students | where: "program", "MASc" %}
+{% assign phd_active = phd | where_exp: "s", "s.status != 'inactive'" %}
+{% assign masc_active = masc | where_exp: "s", "s.status != 'inactive'" %}
+
+I currently co-supervise **{{ phd_active.size }} PhD** and **{{ masc_active.size }} MASc** students, and have worked with **130 undergraduate** students since 2022.
+
+## Graduate Students
 
 ### PhD
 <div class="student-section">
@@ -29,6 +31,7 @@ I currently co-supervise **5 PhD** and **9 MASc** students, and have worked with
       {% else %}
       <strong class="student-full-name">{{ student.name }}</strong>
       {% endif %}
+      {% if student.status == 'inactive' %}<span class="student-status">(inactive)</span>{% endif %}
       <div class="student-details">{{ student.program }}{% if student.since %} &middot; since {{ student.since }}{% endif %}</div>
       {% if student.cosupervisor %}
       <div class="student-details">Co-sup. with {{ student.cosupervisor }}</div>
@@ -51,6 +54,7 @@ I currently co-supervise **5 PhD** and **9 MASc** students, and have worked with
       {% else %}
       <strong class="student-full-name">{{ student.name }}</strong>
       {% endif %}
+      {% if student.status == 'inactive' %}<span class="student-status">(inactive)</span>{% endif %}
       <div class="student-details">{{ student.program }}{% if student.since %} &middot; since {{ student.since }}{% endif %}</div>
       {% if student.cosupervisor %}
       <div class="student-details">Co-sup. with {{ student.cosupervisor }}</div>
@@ -229,6 +233,14 @@ I currently co-supervise **5 PhD** and **9 MASc** students, and have worked with
     color: var(--global-text-color-light);
     margin: 0.3em 0;
     font-size: 0.95em;
+  }
+
+  .student-status {
+    color: var(--global-text-color-light);
+    font-size: 0.85em;
+    font-style: italic;
+    margin-left: 0.3em;
+    white-space: nowrap;
   }
 
   .student-terms {
