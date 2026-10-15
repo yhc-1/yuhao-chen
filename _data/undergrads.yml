@@ -1,3 +1,179 @@
+# Fall 2026
+
+- name: Benny Xu
+  type: URA
+  research: Sports Video Analysis, Human Mesh Recovery and Action Recognition
+  terms: Fall 2026, Spring 2026
+
+- name: Chenggao Li
+  type: URA
+  research: 3D Reconstruction for Construction Site (iVISION)
+  terms: Fall 2026
+
+- name: Jahkim Brown-Roopnarine
+  type: URA
+  research: 3D Reconstruction for Construction Site (iVISION)
+  terms: Fall 2026
+
+- name: John Liao
+  type: URA
+  research: Reinforcement Learning Simulation for Fencing and Boxing
+  terms: Fall 2026, Spring 2026
+
+- name: Krishna Jawale
+  type: URA
+  research: 3D Reconstruction for Construction Site (iVISION)
+  terms: Fall 2026
+
+- name: Leon Zhang
+  type: URA
+  research: Sports Video Analysis
+  terms: Fall 2026
+
+- name: Mingzhe Li
+  type: URA
+  research: 3D Reconstruction for Construction Site (iVISION)
+  terms: Fall 2026
+
+- name: Muzi Li
+  type: URA
+  research: Tennis Simulation
+  terms: Fall 2026
+
+# Spring 2026
+
+- name: Aarav Petel
+  type: URA
+  research: Reinforcement Learning Simulation for Basketball
+  terms: Spring 2026
+
+- name: Ahyan Kabir
+  type: URA
+  research: Food Video Analysis, Food Computing
+  terms: Spring 2026, Winter 2026
+
+- name: Cola Wang
+  type: URA
+  research: Reinforcement Learning Simulation for Tennis
+  terms: Spring 2026
+
+- name: Daniel Wei
+  type: URA
+  research: World Generation, 3D/4D Reconstruction for Construction Site (iVISION)
+  terms: Spring 2026, Winter 2026
+
+- name: Elrich Ka Lung Chen
+  type: URA
+  research: Food Video Analysis
+  terms: Spring 2026
+
+- name: Jina Yang
+  type: URA
+  research: Sports Video Analysis
+  terms: Spring 2026
+
+- name: Kaibo Huang
+  type: URA
+  research: Sports Simulation
+  terms: Spring 2026
+
+- name: Muhammad Farooqi
+  type: URA
+  research: Reinforcement Learning Simulation for Boxing
+  terms: Spring 2026
+
+- name: Nathan G. Kuissi Nguemtchueng
+  type: URA
+  research: 3D Reconstruction for Construction Site (iVISION)
+  terms: Spring 2026, Winter 2026
+
+- name: Noemie Lamontagne
+  type: URA
+  research: Object Re-identification
+  terms: Spring 2026
+
+- name: Pranav Pathak
+  type: URA
+  research: Reinforcement Learning Simulation for Soccer
+  terms: Spring 2026
+
+- name: Renjie Zheng
+  type: URA
+  research: World Generation, 3D Gaussian Splatting (iVISION)
+  terms: Spring 2026, Winter 2026
+
+- name: Ryan Lei
+  type: URA
+  research: Material Point Method Simulation for Food Manipulation
+  terms: Spring 2026, Winter 2026
+
+- name: Thomson Tong
+  type: URA
+  research: Project Aria, Reinforcement Learning, Sports Video Analysis
+  terms: Spring 2026
+
+- name: Vaishvi Shah
+  type: URA
+  research: 2D Gaussian Splatting SLAM
+  terms: Spring 2026
+
+- name: Yash Joshi
+  type: URA
+  research: Physics-based Layout, World Generation
+  terms: Spring 2026
+
+# Winter 2026
+
+- name: Daniel Long
+  type: URA
+  research: World Generation
+  terms: Winter 2026
+
+- name: Hy Lac Nguyen
+  type: URA
+  research: 3D Reconstruction for Construction Site (iVISION)
+  terms: Winter 2026
+
+- name: Jacob Fu
+  type: URA
+  research: Food Computing
+  terms: Winter 2026
+
+- name: Jason Liu
+  type: URA
+  research: LeRobot
+  terms: Winter 2026
+
+- name: Jerry Hu
+  type: URA
+  research: Sports Video Analysis
+  terms: Winter 2026
+
+- name: Maria Mathai
+  type: URA
+  research: Image Generation
+  terms: Winter 2026
+
+- name: Mark Chiu
+  type: URA
+  research: Reinforcement Learning for Humanoid Sports (Tennis, Hockey, Ping-pong)
+  terms: Winter 2026
+
+- name: Mohammed Elshrief
+  type: URA
+  research: Food Video Analysis, Meta Glasses
+  terms: Winter 2026
+
+- name: Taha Malik
+  type: URA
+  research: XLeRobot, Meta Glasses, World Generation
+  terms: Winter 2026
+
+- name: Warren Xu
+  type: URA
+  research: Food Video Analysis, Reinforcement Learning for Robotics
+  terms: Winter 2026
+
 # 2025 Fall
 
 - name: Joel Fu
@@ -12,8 +188,8 @@
 
 - name: Matias Rivas
   type: URA
-  research: 3DGS-based World Generation
-  terms: Fall 2025
+  research: 3DGS-based World Generation (iVISION)
+  terms: Spring 2026, Winter 2026, Fall 2025
 
 - name: Max Li
   type: URA
@@ -28,7 +204,7 @@
 - name: Owen Pan
   type: URA
   research: RL Reward Design for 2V2 Soccer Simulation
-  terms: Fall 2025
+  terms: Fall 2026, Spring 2026, Winter 2026, Fall 2025
 
 - name: Sanjay Seenivasan
   type: URA
@@ -47,13 +223,13 @@
 
 - name: Yichen Liu
   type: URA
-  research: Continuous 3D Reconstruction of Construction Site
-  terms: Fall 2025
+  research: Continuous 3D Reconstruction of Construction Site (iVISION)
+  terms: Spring 2026, Winter 2026, Fall 2025
 
 - name: Mohammadamin (Amin) Sedaghat
   type: URA
   research: Tennis Simulation
-  terms: Fall 2025
+  terms: Fall 2026, Winter 2026, Fall 2025
 
 - name: Aya Ahmed
   type: URA
@@ -67,8 +243,8 @@
 
 - name: David Wu
   type: URA
-  research: Material Point Method and Video Matting
-  terms: Fall 2025
+  research: Material Point Method Simulation for Food Manipulation, Video Matting
+  terms: Winter 2026, Fall 2025
 
 - name: Pan Liu
   type: URA
@@ -82,8 +258,8 @@
 
 - name: Tisiane Wembou
   type: URA
-  research: Point Cloud Fixing and Completion
-  terms: Fall 2025
+  research: Point Cloud Fixing and Completion, Sports Video Analysis, iVISION, Reinforcement Learning
+  terms: Winter 2026, Fall 2025
 
 - name: Xing Lyu
   type: URA
@@ -117,8 +293,8 @@
 
 - name: Leonard Zhou
   type: URA
-  research: 3D Reconstruction Levels of Details for Construction Site
-  terms: Spring 2025, Fall 2025
+  research: 3D Reconstruction Levels of Details for Construction Site (iVISION)
+  terms: Winter 2026, Fall 2025, Spring 2025
 
 - name: Nina Zhang
   type: URA
@@ -171,37 +347,37 @@
 
 - name: Divya Makkar
   type: URA
-  research: LeRobot
+  research: Untie Wire using LeRobot
   terms: Spring 2025
 
 - name: Akil Giri
   type: URA
-  research: 3D Vision for Construction Site
+  research: 3D Semantic Change Detection for Construction Site
   terms: Spring 2025
 
 - name: Arpit Arun Kumaar
   type: URA
-  research: LeRobot
+  research: Lego Assembly using LeRobot
   terms: Spring 2025
 
 - name: Arun
   type: URA
-  research: Hockey Analytics
+  research: Hockey Event Detection
   terms: Spring 2025
 
 - name: Daniel Wu
   type: URA
-  research: Hockey Analytics
+  research: 3DGS Humans for Hockey
   terms: Spring 2025
 
 - name: David Gan
   type: URA
-  research: Tennis Analytics
+  research: Tennis Game Simulation
   terms: Spring 2025
 
 - name: Frank Chen
   type: URA
-  research: Hockey Analytics
+  research: Hockey Stick Detection and Segmentation
   terms: Spring 2025
 
 - name: Luke Clausi
@@ -216,7 +392,7 @@
 
 - name: Iris Mo
   type: URA
-  research: Mobile Robot
+  research: Robotic Mapping
   terms: Spring 2025
 
 - name: Ishan
@@ -231,8 +407,8 @@
 
 - name: Jerry Zhang
   type: URA
-  research: Food Computing
-  terms: Spring 2025
+  research: Nutrition Estimation App Development
+  terms: Winter 2026, Spring 2025
 
 - name: Leo You
   type: URA
@@ -241,8 +417,8 @@
 
 - name: Mark Do
   type: URA
-  research: 3D Reconstruction for Construction Site
-  terms: Spring 2025
+  research: Robotics, Feedforward-based 3D Reconstruction for Construction Site
+  terms: Winter 2026, Spring 2025
 
 - name: Mckale Chung
   type: URA
@@ -251,17 +427,17 @@
 
 - name: Xuanpeng Wang
   type: URA
-  research: Food Computing
+  research: RGB-based Depth Estimation for Food Volume Estimation
   terms: Spring 2025
 
 - name: Qingyuan Li
   type: URA
-  research: Food Computing on Wearable Glasses
+  research: Nutrition Intake Estimation from Wearable Glasses
   terms: Spring 2025
 
 - name: Simon Hampton
   type: URA
-  research: Hockey Analytics
+  research: Hockey Puck Pass Tracking
   terms: Spring 2025
 
 
@@ -296,13 +472,13 @@
 
 - name: Valerie Stoica
   type: URA
-  research: Nutrition intake estimation app development for older adults
-  terms: Winter 2025, Fall 2024, Spring 2025
+  research: Nutrition Intake Estimation App Development for Older Adults
+  terms: Winter 2026, Spring 2025, Winter 2025, Fall 2024
 
 - name: Yuchen Lin
   type: URA, Co-op
   research: Drone-based 3D Reconstruction for Construction Site
-  terms: Fall 2024, Winter 2025, Spring 2025
+  terms: Fall 2026, Spring 2025, Winter 2025, Fall 2024
 
 - name: Mihir Gupta
   type: URA

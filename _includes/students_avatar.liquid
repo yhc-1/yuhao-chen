@@ -1,0 +1,23 @@
+{%- comment -%}
+  Renders a student's photo, or a circular initials avatar when no photo is on
+  file. Drop a JPG into assets/images/students/ and set the entry's `image`
+  field to replace the avatar with the real photo.
+
+  Usage: {% include students_avatar.liquid student=student %}
+{%- endcomment -%}
+{%- assign parts = include.student.name | split: " " -%}
+{%- assign first_initial = parts.first | slice: 0 -%}
+{%- if parts.size > 1 -%}
+  {%- assign last_initial = parts.last | slice: 0 -%}
+  {%- assign initials = first_initial | append: last_initial | upcase -%}
+{%- else -%}
+  {%- assign initials = first_initial | upcase -%}
+{%- endif -%}
+{%- if include.student.image -%}
+  {%- assign student_image_path = include.student.image | prepend: "/assets/images/students/" | relative_url -%}
+  <div class="student-image">
+    <img src="{{ student_image_path }}" alt="{{ include.student.name }}" loading="lazy" />
+  </div>
+{%- else -%}
+  <div class="student-initials" role="img" aria-label="{{ include.student.name }}">{{ initials }}</div>
+{%- endif -%}

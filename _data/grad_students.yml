@@ -1,7 +1,14 @@
+# Current graduate students, ordered PhD first then MASc, by start date.
+# `image` is a file in assets/images/students/; omit it and the students page
+# renders an initials avatar instead.
+
+# ----------------------------- PhD -----------------------------
+
 - first_name: Emily
   name: Emily Zeng
   program: PhD
   cosupervisor: Prof. Alexander Wong
+  since: Sep 2023
   image: emily-zeng.jpg
   linkedin: https://www.linkedin.com/in/ezxzeng/
 
@@ -9,47 +16,88 @@
   name: Saeejith Nair
   program: PhD
   cosupervisor: Prof. Alexander Wong
+  since: Sep 2024
   image: saeejith-nair.jpg
   linkedin: https://www.linkedin.com/in/saeejith/
 
 - first_name: Fernando
-  name: Fernando Pena Cantu
+  name: Fernando Peña Cantu
   program: PhD
   cosupervisor: Prof. Alexander Wong
+  since: Sep 2024
   image: fernando-pencantu.jpg
   linkedin: https://www.linkedin.com/in/fernando-pencantu/
 
-- first_name: Harish
-  name: Harish Prakash
-  program: PhD
-  cosupervisor: Prof. Alexander Wong
-  image: harish-prakash.jpg
-  linkedin: https://www.linkedin.com/in/harish-prakash-21109415a/
-
 - first_name: Kseniia
   name: Kseniia Buzko
-  program: MASc
-  cosupervisor: Prof. David Clausi
+  program: PhD
+  cosupervisor: Prof. John Zelek
+  since: Sep 2025
   image: kseniia-buzko.jpg
   linkedin: https://www.linkedin.com/in/kseniiabuzko/
+
+- first_name: Hongyuan
+  name: Hongyuan Hua
+  program: PhD
+  cosupervisor: Prof. David Clausi
+  since: Sep 2026
+
+# ----------------------------- MASc -----------------------------
 
 - first_name: Howard
   name: Howard Nguyen-Huu
   program: MASc
   cosupervisor: Prof. David Clausi
+  since: May 2024
   image: howard-lin.jpg
   linkedin: https://www.linkedin.com/in/howird/
-
-- first_name: Soyeon
-  name: Soyeon Jang
-  program: MASc
-  cosupervisor: Prof. Paul Fieguth
-  image: soyeon-j.jpg
-  linkedin: https://www.linkedin.com/in/soyeon-j/
 
 - first_name: Dmytro
   name: Dmytro Klepachevskyi
   program: MASc
   cosupervisor: Prof. Sirisha Rambhatla
+  since: May 2025
   image: dmytro-klepachevskyi.jpg
-  linkedin: https://www.linkedin.com/in/dmytro-klepachevskyi-5a05561b7/ 
+  linkedin: https://www.linkedin.com/in/dmytro-klepachevskyi-5a05561b7/
+
+- first_name: Daniel
+  name: Daniel Wu
+  program: MASc
+  cosupervisor: Profs. David Clausi and Jonathan Li
+  since: Sep 2025
+
+- first_name: Kshitij
+  name: Kshitij Goyal
+  program: MASc
+  cosupervisor: Prof. David Clausi
+  since: Jan 2026
+
+- first_name: Jerry
+  name: Jerry Hu
+  program: MASc
+  cosupervisor: Prof. David Clausi
+  since: May 2026
+
+- first_name: Ashley
+  name: Ashley Li
+  program: MASc
+  cosupervisor: Prof. John Zelek
+  since: Sep 2026
+
+- first_name: Iris
+  name: Iris Chen
+  program: MASc
+  cosupervisor: Prof. David Clausi
+  since: Sep 2026
+
+- first_name: Melika
+  name: Melika Mir Sajjadi
+  program: MASc
+  cosupervisor: Prof. John Zelek
+  since: Sep 2026
+
+- first_name: Robert
+  name: Robert Yang
+  program: MASc
+  cosupervisor: Prof. David Clausi
+  since: Sep 2026
