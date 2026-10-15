@@ -12,12 +12,6 @@ nav_order: 3
 
 I designed and have taught four offerings of this graduate seminar course in the Department of Systems Design Engineering. It covers 2D, 3D, video, and generative vision, with the reading list built from papers published in the preceding three years and refreshed each offering. Students present papers, write structured peer reviews, and carry out a term project.
 
-Average student course perception scores across the four offerings:
-
-| | Overall | Implementation | Design |
-|---|---|---|---|
-| **Average (4 offerings)** | 4.75 / 5 | 4.80 / 5 | 4.70 / 5 |
-
 ## Computer Vision Paper Reading Group
 *Organizer, University of Waterloo, 2022 – present*
 
