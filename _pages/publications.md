@@ -9,8 +9,6 @@ nav_order: 1
 
 Selected publications, organized around the four application areas of my research on interactive digital twins. For the complete list of 93 papers, please see my [Google Scholar profile](https://scholar.google.com/citations?user=qc6CJjYAAAAJ).
 
-In the author lists below, **my name is in bold** and the names of <u>students and interns I supervise or have supervised</u> — graduate, undergraduate and visiting — are underlined.
-
 ## Datasets
 
 ### MetaGraspNet
@@ -31,6 +29,8 @@ A comprehensive dataset for nutritional analysis of food items in 3D.
 ---
 
 ## Food
+
+In the author lists below, **my name is in bold** and the names of <u>students and interns I supervise or have supervised</u> — graduate, undergraduate and visiting — are underlined.
 
 Video-based dietary monitoring, 3D food geometry and portion measurement, and generative models for food.
 
