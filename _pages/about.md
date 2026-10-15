@@ -26,9 +26,6 @@ Co-supervising 5 PhD and 9 MASc students &middot; 130 undergraduates since 2022 
 - **Construction** — long-term UAV site monitoring, change detection, level-of-detail Gaussian splatting
 - **Robotics** — grasping and bin picking, Gaussian-splatting SLAM, 3D scene graphs, embodied question answering
 
-## Prospective Students/Postdocs
-I'm looking for MASc/PhD students and postdocs in **computer vision for construction** — backgrounds in SLAM, NeRF, Gaussian Splatting, or robotics especially welcome. Our lab is also recruiting in remote sensing, supervised by [Prof. David Clausi](https://uwaterloo.ca/systems-design-engineering/profile/dclausi).
-
 ## Professional Services
 - **Chair** — MetaFood Workshop at CVPR [2024](https://sites.google.com/view/cvpr-metafood-2024), [2025](https://sites.google.com/view/cvpr-metafood-2025), 2026
 - **Co-Chair** — [IAAI-23](https://aaai-23.aaai.org/iaai-23-call/), [IAAI-24](https://aaai.org/aaai-conference/iaai-24-program/), [CVIS-21](https://cvis2021.weebly.com/), [CVIS-22](https://uwcvis.github.io/cvis2022/), [CVIS-23](https://uwcvis.github.io/cvis2023/); advisor for CVIS 2024–2025
